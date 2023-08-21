@@ -17,6 +17,7 @@ class Main {
   }
 }
 ```
+#### Output
 >Output: v
 
 ### Syntax of charAt()
