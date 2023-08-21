@@ -1,5 +1,8 @@
 # Java String charAt()
 
+### Usage
+The `charAt()` method returns the character at the specified index.
+
 ### Example
 
 ```sh
