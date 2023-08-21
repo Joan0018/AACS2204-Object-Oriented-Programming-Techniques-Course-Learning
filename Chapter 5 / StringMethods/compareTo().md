@@ -19,6 +19,7 @@ class Main {
   }
 }
 ```
+#### Output
 >Output: -1
 
 ### Syntax of compareTo()
@@ -86,6 +87,7 @@ class Main {
   }
 }
 ```
+#### Output
 >str1 and str2 are not equal
 
 ### Example 3: compareTo() With Case
