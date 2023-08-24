@@ -7,7 +7,7 @@ The `isLetter(char ch)` method of Character class determines whether the given(o
 
 
 ### Syntax of isLetter()
-The syntax of string `isLetter()` method is:
+The syntax of character `isLetter()` method is:
 ```sh
 public static boolean isLetter(char ch)  
 ```
