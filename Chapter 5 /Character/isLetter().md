@@ -3,6 +3,9 @@
 ### Usage
 The `isLetter(char ch)` method of Character class determines whether the given(or specified) character is a letter or not.
 
+![image](https://github.com/Joan0018/AACS2204-Object-Oriented-Programming-Techniques-Course-Learning/assets/66239936/2b3a02e4-f886-4240-a3cb-f7332b9f66b2)
+
+
 ### Syntax of isLetter()
 The syntax of string `isLetter()` method is:
 ```sh
