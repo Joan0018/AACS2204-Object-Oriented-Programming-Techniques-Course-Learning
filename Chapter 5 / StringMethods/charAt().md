@@ -23,7 +23,7 @@ class Main {
 ### Syntax of charAt()
 The syntax of string `charAt()` method is:
 ```sh
-string.charAt(ing index)
+string.charAt(int index)
 ```
 Here, `string` is an object of the `String` class.
 
