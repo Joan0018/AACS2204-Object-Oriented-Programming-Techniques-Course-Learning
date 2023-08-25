@@ -31,3 +31,14 @@
 8. Once you pushed, you may go to the Github Online to check the updated repo
    - ![image](https://github.com/Joan0018/AACS2204-Object-Oriented-Programming-Techniques-Course-Learning/assets/66239936/b5a1f340-155c-4e94-aa76-29dcf358776c)
 
+### Track Changes
+- You are able to track the changes made by all the contributors in the Github Online
+- This is helpful for you to trace the history of the project
+1. Open github website and open the repo
+2. Click the Activity at the right hand side
+   - <img width="1490" alt="image" src="https://github.com/Joan0018/AACS2204-Object-Oriented-Programming-Techniques-Course-Learning/assets/66239936/27893e43-3536-41fc-991e-d5098332c45d">
+3. You are able to view all the changes made within the repo
+   - <img width="1490" alt="image" src="https://github.com/Joan0018/AACS2204-Object-Oriented-Programming-Techniques-Course-Learning/assets/66239936/acd592a9-42f1-4ffc-8f4a-48c22694110f">
+
+
+
