@@ -40,5 +40,11 @@
 3. You are able to view all the changes made within the repo
    - <img width="1490" alt="image" src="https://github.com/Joan0018/AACS2204-Object-Oriented-Programming-Techniques-Course-Learning/assets/66239936/acd592a9-42f1-4ffc-8f4a-48c22694110f">
 
+### Share your repo to groupmates
+1. Open the github website
+2. Go to the repo that you willing to share
+   - <img width="1490" alt="image" src="https://github.com/Joan0018/AACS2204-Object-Oriented-Programming-Techniques-Course-Learning/assets/66239936/ef4c031c-33eb-4620-8cca-81d0883ce863">
+3. Search your groupmates' github account
+   - <img width="1490" alt="image" src="https://github.com/Joan0018/AACS2204-Object-Oriented-Programming-Techniques-Course-Learning/assets/66239936/e6deb852-a9d9-4c0a-ad9c-47352f5b29fe">
 
 
